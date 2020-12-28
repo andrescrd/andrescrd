@@ -8,6 +8,4 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescrd&layout=compact&theme=dark&hide=ShaderLab" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrescrd&theme=dark&v=2" />
-</a>
+
