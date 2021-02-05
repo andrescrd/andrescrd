@@ -20,5 +20,10 @@
   
  <a href="https://andrescrd.itch.io/spacecat-puzzle">
    <img align="center" width="25px" src="https://github.com/andrescrd/assets/blob/master/cat_with_bot.png" />
-   <span>https://andrescrd.itch.io/spacecat-puzzle</span>
+   <span> https://andrescrd.itch.io/spacecat-puzzle</span>
+ </a>
+ 
+  <a href="https://andrescrd.itch.io/hey-buddy">
+   <img align="center" width="25px" src="https://github.com/andrescrd/assets/blob/master/BuddyBuddy.png" />
+   <span> https://andrescrd.itch.io/hey-buddy</span>
  </a>
