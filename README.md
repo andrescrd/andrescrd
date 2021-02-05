@@ -19,11 +19,13 @@
 ## 🎮 **Games**  
 
 <a href="https://andrescrd.itch.io/hey-buddy">
-  <img align="center" src="https://github.com/andrescrd/assets/blob/master/heybuddy.png" />
+  <img align="center" width="350px" src="https://github.com/andrescrd/assets/blob/master/heybuddy.png" />
 </a>
 <br/><br/>
 <a href="https://andrescrd.itch.io/spacecat-puzzle">
-  <img align="center" src="https://github.com/andrescrd/assets/blob/master/spacecat.png" />
+  <img align="center" width="350px" src="https://github.com/andrescrd/assets/blob/master/spacecat.png" />
 </a>
 
+## 👀 **Visitors**  
+[![ViewCount](https://views.whatilearened.today/views/github/andrescrd/ismlhbb.svg?cache=remove)](#)
  
