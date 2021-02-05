@@ -14,3 +14,11 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrescrd&langs_count=5&layout=compact&theme=dark" />
 </a>
+
+
+## 🎮 **Games**  
+  
+ <a href="https://andrescrd.itch.io/spacecat-puzzle">
+   <img align="center" width="25px" src="https://github.com/andrescrd/assets/blob/master/cat_with_bot.png" />
+   <span>https://andrescrd.itch.io/spacecat-puzzle</span>
+ </a>
