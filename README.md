@@ -18,12 +18,8 @@
 
 ## 🎮 **Games**  
 
-<a href="https://andrescrd.itch.io/hey-buddy">
-  <img align="center" width="350px" src="https://github.com/andrescrd/assets/blob/master/heybuddy.png" />
-</a>
-<br/><br/>
-<a href="https://andrescrd.itch.io/spacecat-puzzle">
-  <img align="center" width="350px" src="https://github.com/andrescrd/assets/blob/master/spacecat.png" />
+<a href="https://andrescrd.itch.io/">
+  <img align="center" width="256px" src="https://github.com/andrescrd/assets/blob/master/play_on_itchio.png" />
 </a>
 
 ## 👀 **Visitors**  
