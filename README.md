@@ -9,13 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescrd&layout=compact&hide=ShaderLab,JavaScript" />
 </a>
 
-## ⌛ **Weekly Development Breakdown:**
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrescrd&langs_count=5&layout=compact" />
-</a>
-
-
 ## 🎮 **Games**  
 
 <a href="https://andrescrd.itch.io/">
